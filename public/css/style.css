@@ -1,0 +1,27 @@
+.table-nav {
+    border-bottom: 1px solid rgb(175, 175, 175);
+}
+.jumlah-data, .paging {
+    width: 50%;
+    height: 50px;
+    display: block;
+}
+.jumlah-data {
+    float: left;
+    padding-top: 15px;
+}
+.paging {
+    float: right;
+    text-align: right;
+}
+.paging ul.pager, .paging ul.pagination {
+    text-align: right;
+}
+ul.pagination, ul.pager {
+    margin-top: 8px;
+}
+
+.id_provinsi{
+    border-color: red;
+    color: red;
+}
